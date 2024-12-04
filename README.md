@@ -1,2 +1,2 @@
 # Advent-of-Code
-My solutions to the challenges of Advent of Code events!
+Little repo where I'll be storing my solutions to the Advent of Code challenges!
