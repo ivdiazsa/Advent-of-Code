@@ -1,0 +1,13 @@
+Status of each day:
+
+Day 01: Complete
+Day 02: Complete
+Day 03: Complete
+Day 04: Started Only
+Day 05: Complete
+Day 06: Complete
+Day 07: Complete
+Day 08: Not Started
+Day 09: Part 1 Ready But Input Fails
+Day 10: Not Started
+Day 11: Complete

@@ -49,6 +49,8 @@ blocks). For the disk map 12345, the process looks like this:
 
 The first example requires a few more steps:
 
+2333133121414131402
+
 00...111...2...333.44.5555.6666.777.888899
 009..111...2...333.44.5555.6666.777.88889.
 0099.111...2...333.44.5555.6666.777.8888..
