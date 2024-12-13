@@ -11,3 +11,4 @@ Day 08: Not Started
 Day 09: Part 1 Ready But Input Fails
 Day 10: Not Started
 Day 11: Complete
+Day 12: Started Only
